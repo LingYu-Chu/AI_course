@@ -1,2 +1,1 @@
-# TangleDNS
-DNS base on Tangle
+# AI course
